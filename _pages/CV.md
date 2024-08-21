@@ -1,1 +1,1 @@
-<object data="{{ site.url }}{{ site.baseurl }}/Angela 2024 CV.docx.pdf" width="1000" height="1000" type="application/pdf"></object>
+You can access a copy of my CV [here](https://drive.google.com/file/d/1EOJVfKT0_tuaSiB90TsU0HUtVLvIThSH/view?usp=drive_link). 
