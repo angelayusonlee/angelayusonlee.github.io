@@ -11,5 +11,5 @@ I'm **Angela Y. Lee** and I am a Ph.D. candidate in the Department of Communicat
 
 My research has been published in venues such as the Journal of Computer-Mediated Communication, Communication Research, New Media + Society, PNAS Nexus, and the Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW). I received dual B.A.'s in Psychology and Communication, and my Master's degree in Communication at Stanford.
 
-**Please feel free to connect with me by email (angela8@stanford.edu) if you're interested in this work!**
+**Please feel free to connect with me by email (angela8@stanford.edu) if you're interested in this work! You can access a copy of my CV [here] (https://drive.google.com/file/d/1EOJVfKT0_tuaSiB90TsU0HUtVLvIThSH/view?usp=drive_link).**
 
