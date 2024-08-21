@@ -29,7 +29,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 0 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Angela Y. Lee"
-  avatar : "/assets/images/angelahead3.jpg"
+  avatar : "/assets/images/angelahead3 copy.jpg"
   bio    : "Ph.D. Candidate in Communication at Stanford University"
   links:
     - label: "Google Scholar"
@@ -91,7 +91,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: about
+      type: posts
     values:
       layout: single
       author_profile: true
