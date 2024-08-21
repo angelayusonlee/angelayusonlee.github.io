@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hello! I'm **Angela Y. Lee** and I am a Ph.D. candidate in the Department of Communication at Stanford University. I work in the Social Media Lab with Dr. Jeffrey Hancock. My work is supported by the Stanford Interdisciplinary Graduate Fellowship, the Stanford Social Impact Labs, and the Haas Center's Graduate Fellowship for Public Service. **I am on the academic job market this year!**
+I'm **Angela Y. Lee** and I am a Ph.D. candidate in the Department of Communication at Stanford University. I work in the Social Media Lab with Dr. Jeffrey Hancock. My work is supported by the Stanford Interdisciplinary Graduate Fellowship, the Stanford Social Impact Labs, and the Haas Center's Graduate Fellowship for Public Service. **I am on the academic job market this year.**
 
 **I study how people’s beliefs shape the dynamics of computer-mediated communication.** My research program examines how people communicate with and through technology, with an emphasis on understanding how people perceive and interpret these mediated experiences in meaningfully different ways. I integrate theories from media psychology and social cognition to investigate the impact of these perceptual differences on downstream psychological, behavioral, and social processes. My work advances communication research by revealing the critical role of people’s beliefs in three domains: 1) the effects of social media use on psychological well-being, 2) responses to human-AI interaction and communication, and 3) community resilience to digital threats like misinformation.
 
