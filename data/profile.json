@@ -1,0 +1,31 @@
+{
+  "name": "Angela Yuson Lee",
+  "tagline": "Media Psychology · Social Media & Well-Being",
+  "photo": "assets/images/profile.jpg?v=2",
+  "cv": "assets/Angela_Lee_CV.pdf",
+  "affiliation": [
+    "Postdoctoral Research Fellow, Center for Digital Health &amp; Tech, Impact, and Policy Center",
+    "Stanford University",
+    "Incoming Assistant Professor, School of Journalism &amp; Mass Communication, UW–Madison (Fall 2026)"
+  ],
+  "email": "angela8@stanford.edu",
+  "location": "Stanford, CA",
+  "bio": [
+    "I am a Postdoctoral Research Fellow in the <a href=\"https://cdh.stanford.edu/\" target=\"_blank\" rel=\"noopener\">Center for Digital Health</a> and the <a href=\"https://fsi.stanford.edu/content/tip\" target=\"_blank\" rel=\"noopener\">Tech, Impact, and Policy Center</a> at Stanford University. In fall of 2026, I will be joining the University of Wisconsin–Madison as an Assistant Professor in the <a href=\"https://sjmc.wisc.edu/\" target=\"_blank\" rel=\"noopener\">School of Journalism and Mass Communication</a>.",
+    "My research program takes a media psychological approach to examining the effects of news and mass communication on psychological well-being and belief in (mis)information. My work uses rigorous mixed-methods and community-engaged practices to investigate how diverse audiences perceive, use, and respond to technologies, such as social media, personalized algorithms, and artificial intelligence (AI). In particular, I develop interventions that support people in obtaining the benefits of new technologies while being aware and resilient to its potential harms.",
+    "I received my Ph.D. in Communication from Stanford University, where I worked in the <a href=\"https://sml.stanford.edu\" target=\"_blank\" rel=\"noopener\">Social Media Lab</a> with Professor Jeff Hancock. I also received my B.A. in Psychology and Communication at Stanford."
+  ],
+  "research_interests": [
+    "Media psychology",
+    "Social media & well-being",
+    "Mis/disinformation",
+    "Community-engaged interventions",
+    "AI & society"
+  ],
+  "links": {
+    "google_scholar": "https://scholar.google.com/citations?user=M2_aedQAAAAJ&hl=en",
+    "github": "https://github.com/angelayusonlee",
+    "linkedin": "https://www.linkedin.com/in/PLACEHOLDER",
+    "orcid": "https://orcid.org/0000-0002-9527-5730"
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "_comment": "Real publications from Google Scholar. DOIs verified via Crossref where available. Papers without a 'doi' yet (CHI/CSCW proceedings, New Media & Society, Communication Research, HKS Misinfo Review, etc.) can have one added under 'links'. To move a working paper to published, change 'status' to 'published'. See README.md / GUIDE.md.",
+  "publications": [
+    {
+      "id": "lee2026goinglight",
+      "status": "published",
+      "title": "Going Light: The Effects of Minimal Mobile Phone Adoption on Young Adults' Well-Being Depend on Motivation",
+      "authors": ["Angela Yuson Lee", "A. Stevic", "G. Walker-Keleher", "C. Q. A. Chen", "E. Charity", "R. Dahlke", "et al."],
+      "year": 2026,
+      "venue": "CHI 2026",
+      "venue_detail": "CHI 2026, Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+      "award": "Honorable Mention for Best Paper, CHI 2026",
+      "links": {}
+    },
+    {
+      "id": "cheng2026metaphors",
+      "status": "published",
+      "title": "Metaphors of AI Indicate That People Increasingly Perceive AI as Warm and Human-Like",
+      "authors": ["M. Cheng", "Angela Yuson Lee", "K. Rapuano", "K. Niederhoffer", "A. Liebscher", "J. Hancock"],
+      "year": 2026,
+      "venue": "Communications Psychology",
+      "venue_detail": "Communications Psychology (Nature)",
+      "links": {}
+    },
+    {
+      "id": "lee2025harmful",
+      "status": "published",
+      "title": "Americans Overestimate How Many Social Media Users Post Harmful Content",
+      "authors": ["Angela Yuson Lee", "E. Neumann", "J. Zaki", "J. Hancock"],
+      "year": 2025,
+      "venue": "PNAS Nexus",
+      "venue_detail": "PNAS Nexus, 4(12), pgaf310",
+      "links": { "doi": "https://doi.org/10.1093/pnasnexus/pgaf310" }
+    },
+    {
+      "id": "lee2025resilience",
+      "status": "published",
+      "title": "Building Resilience to Misinformation in Communities of Color: Results from Two Studies of Tailored Digital Media Literacy Interventions",
+      "authors": ["Angela Yuson Lee", "R. C. Moore", "J. T. Hancock"],
+      "year": 2025,
+      "venue": "New Media & Society",
+      "venue_detail": "New Media & Society, 27(6), 3545-3576",
+      "links": {}
+    },
+    {
+      "id": "cerit2025smartphone",
+      "status": "published",
+      "title": "Person-Specific Analyses of Smartphone Use and Mental Health: Intensive Longitudinal Study",
+      "authors": ["M. Cerit", "Angela Yuson Lee", "J. Hancock", "A. Miner", "M. J. Cho", "D. Muise", "et al."],
+      "year": 2025,
+      "venue": "JMIR Formative Research",
+      "venue_detail": "JMIR Formative Research, 9(1), e59875",
+      "links": { "doi": "https://doi.org/10.2196/59875" }
+    },
+    {
+      "id": "cullen2025foryou",
+      "status": "published",
+      "title": "Not Just 'For You': How the Algorithmic Crystal Mediates Communication and Identity Work on TikTok's FYP",
+      "authors": ["Z. N. Cullen", "Angela Yuson Lee", "B. Davidson", "J. T. Hancock", "N. B. Ellison"],
+      "year": 2025,
+      "venue": "CSCW",
+      "venue_detail": "CSCW, Proceedings of the ACM on Human-Computer Interaction, 9(7), 1-27",
+      "links": {}
+    },
+    {
+      "id": "stevic2025dating",
+      "status": "published",
+      "title": "Of Loving and Losing: The Influence of Dating App Motivations and Perceived Success on Psychological Well-Being",
+      "authors": ["A. Stevic", "Angela Yuson Lee", "S. X. Liu", "J. Hancock"],
+      "year": 2025,
+      "venue": "Social Media + Society",
+      "venue_detail": "Social Media + Society, 11(2)",
+      "links": { "doi": "https://doi.org/10.1177/20563051251346888" }
+    },
+    {
+      "id": "lee2024mindsets",
+      "status": "published",
+      "title": "Social Media Mindsets: A New Approach to Understanding Social Media Use and Psychological Well-Being",
+      "authors": ["Angela Yuson Lee", "J. T. Hancock"],
+      "year": 2024,
+      "venue": "Journal of Computer-Mediated Communication",
+      "venue_detail": "Journal of Computer-Mediated Communication, 29(1), zmad048",
+      "links": { "doi": "https://doi.org/10.1093/jcmc/zmad048" }
+    },
+    {
+      "id": "schreurs2024selfworth",
+      "status": "published",
+      "title": "When Adolescents' Self-Worth Depends on Their Social Media Feedback: A Longitudinal Investigation with Depressive Symptoms",
+      "authors": ["L. Schreurs", "Angela Yuson Lee", "X. S. Liu", "J. T. Hancock"],
+      "year": 2024,
+      "venue": "Communication Research",
+      "venue_detail": "Communication Research, 51(6), 631-659",
+      "links": {}
+    },
+    {
+      "id": "jia2024collaboration",
+      "status": "published",
+      "title": "Collaboration, Crowdsourcing, and Misinformation",
+      "authors": ["C. Jia", "Angela Yuson Lee", "R. C. Moore", "C. H. S. Decatur", "S. X. Liu", "J. T. Hancock"],
+      "year": 2024,
+      "venue": "PNAS Nexus",
+      "venue_detail": "PNAS Nexus, 3(10), pgae434",
+      "links": { "doi": "https://doi.org/10.1093/pnasnexus/pgae434" }
+    },
+    {
+      "id": "lossio2024chatgpt",
+      "status": "published",
+      "title": "A Comparison of ChatGPT and Fine-Tuned Open Pre-Trained Transformers (OPT) Against Widely Used Sentiment Analysis Tools: Sentiment Analysis of COVID-19 Survey Data",
+      "authors": ["J. A. Lossio-Ventura", "R. Weger", "Angela Yuson Lee", "E. P. Guinee", "J. Chung", "L. Atlas", "et al."],
+      "year": 2024,
+      "venue": "JMIR Mental Health",
+      "venue_detail": "JMIR Mental Health, 11, e50150",
+      "links": { "doi": "https://doi.org/10.2196/50150" }
+    },
+    {
+      "id": "kim2024positivetech",
+      "status": "published",
+      "title": "Envisioning New Futures of Positive Social Technology: Beyond Paradigms of Fixing, Protecting, and Preventing",
+      "authors": ["J. W. Kim", "L. Popowski", "A. Fang", "C. Pyle", "G. Freeman", "R. M. Kelly", "Angela Yuson Lee", "F. Liu", "et al."],
+      "year": 2024,
+      "venue": "CSCW Companion",
+      "venue_detail": "CSCW Companion, Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing",
+      "links": {}
+    },
+    {
+      "id": "lee2023digitalresilience",
+      "status": "published",
+      "title": "Developing Digital Resilience: An Educational Intervention Improves Elementary Students' Response to Digital Challenges",
+      "authors": ["Angela Yuson Lee", "J. T. Hancock"],
+      "year": 2023,
+      "venue": "Computers and Education Open",
+      "venue_detail": "Computers and Education Open, 5, 100144",
+      "links": { "doi": "https://doi.org/10.1016/j.caeo.2023.100144" }
+    },
+    {
+      "id": "lee2023agency",
+      "status": "published",
+      "title": "To Use or Be Used? The Role of Agency in Social Media Use and Well-Being",
+      "authors": ["Angela Yuson Lee", "N. B. Ellison", "J. T. Hancock"],
+      "year": 2023,
+      "venue": "Frontiers in Computer Science",
+      "venue_detail": "Frontiers in Computer Science, 5, 1123323",
+      "links": { "doi": "https://doi.org/10.3389/fcomp.2023.1123323" }
+    },
+    {
+      "id": "lee2023misinfodesign",
+      "status": "published",
+      "title": "Designing Misinformation Interventions for All: Perspectives from AAPI, Black, Latino, and Native American Community Leaders on Misinformation Educational Efforts",
+      "authors": ["Angela Yuson Lee", "R. C. Moore", "J. T. Hancock"],
+      "year": 2023,
+      "venue": "Harvard Kennedy School Misinformation Review",
+      "links": {}
+    },
+    {
+      "id": "fauville2023zoomdynamics",
+      "status": "published",
+      "title": "Video-Conferencing Usage Dynamics and Nonverbal Mechanisms Exacerbate Zoom Fatigue, Particularly for Women",
+      "authors": ["G. Fauville", "M. Luo", "A. C. M. Queiroz", "Angela Yuson Lee", "J. N. Bailenson", "J. Hancock"],
+      "year": 2023,
+      "venue": "Computers in Human Behavior Reports",
+      "venue_detail": "Computers in Human Behavior Reports, 10, 100271",
+      "links": { "doi": "https://doi.org/10.1016/j.chbr.2023.100271" }
+    },
+    {
+      "id": "queiroz2023tootired",
+      "status": "published",
+      "title": "Too Tired to Connect: Understanding the Associations Between Video-Conferencing, Social Connection and Well-Being Through the Lens of Zoom Fatigue",
+      "authors": ["A. C. M. Queiroz", "Angela Yuson Lee", "M. Luo", "G. Fauville", "J. T. Hancock", "J. N. Bailenson"],
+      "year": 2023,
+      "venue": "Computers in Human Behavior",
+      "venue_detail": "Computers in Human Behavior, 149, 107968",
+      "links": { "doi": "https://doi.org/10.1016/j.chb.2023.107968" }
+    },
+    {
+      "id": "lee2022algorithmiccrystal",
+      "status": "published",
+      "title": "The Algorithmic Crystal: Conceptualizing the Self Through Algorithmic Personalization on TikTok",
+      "authors": ["Angela Yuson Lee", "H. Mieczkowski", "N. B. Ellison", "J. T. Hancock"],
+      "year": 2022,
+      "venue": "CSCW",
+      "venue_detail": "CSCW, Proceedings of the ACM on Human-Computer Interaction, 6, 1-27",
+      "links": { "doi": "https://doi.org/10.1145/3555601" }
+    },
+    {
+      "id": "moore2021agesocialdistancing",
+      "status": "published",
+      "title": "Age-Related Differences in Experiences with Social Distancing at the Onset of the COVID-19 Pandemic: A Computational and Content Analytic Investigation of Natural Language",
+      "authors": ["R. C. Moore", "Angela Yuson Lee", "J. T. Hancock", "M. C. Halley", "E. Linos"],
+      "year": 2021,
+      "venue": "JMIR Human Factors",
+      "links": {}
+    },
+    {
+      "id": "lee2021construals",
+      "status": "published",
+      "title": "The Role of Subjective Construals on Reporting and Reasoning About Social Media Use",
+      "authors": ["Angela Yuson Lee", "R. Katz", "J. Hancock"],
+      "year": 2021,
+      "venue": "Social Media + Society",
+      "venue_detail": "Social Media + Society, 7(3)",
+      "links": { "doi": "https://doi.org/10.1177/20563051211035350" }
+    },
+    {
+      "id": "lossio2021silverlinings",
+      "status": "published",
+      "title": "Identifying Silver Linings During the Pandemic Through Natural Language Processing",
+      "authors": ["J. A. Lossio-Ventura", "Angela Yuson Lee", "J. T. Hancock", "N. Linos", "E. Linos"],
+      "year": 2021,
+      "venue": "Frontiers in Psychology",
+      "venue_detail": "Frontiers in Psychology, 12, 712111",
+      "links": { "doi": "https://doi.org/10.3389/fpsyg.2021.712111" }
+    },
+    {
+      "id": "mieczkowski2020priming",
+      "status": "published",
+      "title": "Priming Effects of Social Media Use Scales on Well-Being Outcomes: The Influence of Intensity and Addiction Scales on Self-Reported Depression",
+      "authors": ["H. Mieczkowski", "Angela Yuson Lee", "J. T. Hancock"],
+      "year": 2020,
+      "venue": "Social Media + Society",
+      "venue_detail": "Social Media + Society, 6(4)",
+      "links": { "doi": "https://doi.org/10.1177/2056305120961784" }
+    },
+    {
+      "id": "lee2020zoom",
+      "status": "published",
+      "title": "\"Bringing You into the Zoom\": The Power of Authentic Engagement in a Time of Crisis in the USA",
+      "authors": ["Angela Yuson Lee", "G. Moskowitz-Sweet", "E. Pelavin", "O. Rivera", "J. T. Hancock"],
+      "year": 2020,
+      "venue": "Journal of Children and Media",
+      "links": {}
+    },
+    {
+      "id": "yen2019jumpstart",
+      "status": "published",
+      "title": "Jumpstart Program Efficacy: The Impact of Early Childhood Education Advancement Initiatives on Low-Income Preschool Children's Literacy, Agency, and Social Relations",
+      "authors": ["S. C. Yen", "Angela Yuson Lee", "S. K. F. Hui"],
+      "year": 2019,
+      "venue": "Cogent Education",
+      "venue_detail": "Cogent Education, 6(1), 1592063",
+      "links": { "doi": "https://doi.org/10.1080/2331186X.2019.1592063" }
+    },
+    {
+      "id": "yen2018learning",
+      "status": "published",
+      "title": "Learning Online, Offline, and In-Between: Comparing Student Academic Outcomes and Course Satisfaction in Face-to-Face, Online, and Blended Teaching Modalities",
+      "authors": ["S. C. Yen", "Y. Lo", "Angela Yuson Lee", "J. M. Enriquez"],
+      "year": 2018,
+      "venue": "Education and Information Technologies",
+      "venue_detail": "Education and Information Technologies, 23, 2141-2153",
+      "links": {}
+    },
+    {
+      "id": "liebscher2026workslop",
+      "status": "working",
+      "title": "Workslop: Examining the Prevalence, Antecedents and Consequences of Low-Quality AI-Generated Content at Work",
+      "authors": ["A. Liebscher", "Angela Yuson Lee", "K. Rapuano", "G. Kellerman", "K. G. Niederhoffer", "et al."],
+      "year": 2026,
+      "venue": "Working paper",
+      "note": "Featured in Harvard Business Review and cited in Merriam-Webster's 2025 Word of the Year (\"slop\").",
+      "links": {}
+    },
+    {
+      "id": "stevic2026protocol",
+      "status": "working",
+      "title": "Evaluation of the Social Media Minimum Age on Australian Young People: A Study Protocol",
+      "authors": ["A. Stevic", "Y. Chen", "Angela Yuson Lee", "X. Liu", "Z. Smith-Russack", "K. Cairns", "B. Kahl", "et al."],
+      "year": 2026,
+      "venue": "Study protocol (OSF)",
+      "links": {}
+    },
+    {
+      "id": "jia2024heterogeneous",
+      "status": "working",
+      "title": "Understanding the Impact of Heterogeneous vs. Homogeneous Group Collaboration on Hyper-Partisan Misinformation Resilience",
+      "authors": ["C. Jia", "Angela Yuson Lee", "R. Moore", "J. Hancock"],
+      "year": 2024,
+      "venue": "Working paper (OSF)",
+      "links": {}
+    }
+  ]
+}

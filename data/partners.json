@@ -1,0 +1,47 @@
+{
+  "_comment": "Partners / collaborators shown on partners.html. Each entry: name, role (short tag), description, url (optional), logo (optional). Add, edit, or remove freely.",
+  "partners": [
+    {
+      "name": "Stanford Social Media Lab",
+      "role": "Research home",
+      "description": "My research home at Stanford, directed by Professor Jeffrey Hancock, studying how social media and AI shape psychology, relationships, and well-being.",
+      "url": "https://sml.stanford.edu"
+    },
+    {
+      "name": "My Digital TAT2",
+      "role": "Community partner",
+      "description": "A nonprofit empowering students, families, and educators with the knowledge and tools for healthy digital habits and media literacy. We partnered on the digital resilience educational intervention (Computers and Education Open) and related youth-focused work published in the Journal of Children and Media.",
+      "url": "https://mydigitaltat2.org"
+    },
+    {
+      "name": "PEN America",
+      "role": "Community partner",
+      "description": "A nonprofit that defends free expression and leads media-literacy and disinformation-defense programs. We partnered on community-engaged studies building resilience to misinformation in AAPI, Black, Latino, and Native American communities.",
+      "url": "https://pen.org"
+    },
+    {
+      "name": "MediaWise",
+      "role": "Community partner",
+      "description": "The Poynter Institute's media and AI literacy program, which teaches people of all ages to identify misinformation and disinformation. We are collaborating on evaluations of media-literacy interventions, with research forthcoming.",
+      "url": "https://www.poynter.org/mediawise/"
+    },
+    {
+      "name": "Agents of Influence",
+      "role": "Community partner",
+      "description": "An independent group behind a web-based educational video game that builds middle- and high-school students' resilience to online misinformation. We are collaborating on research into its effectiveness, with working papers forthcoming.",
+      "url": "https://www.agentsofinfluencegame.com/"
+    },
+    {
+      "name": "Light Phone Inc.",
+      "role": "Industry partner",
+      "description": "The technology company behind the Light Phone, a minimalist phone designed to be used as little as possible. We partnered on \"Going Light,\" a study of how minimal mobile phone adoption affects young adults' well-being (CHI 2026).",
+      "url": "https://www.thelightphone.com"
+    },
+    {
+      "name": "BetterUp",
+      "role": "Industry partner",
+      "description": "Collaborated on research into AI-generated \"workslop\" and its effects on workplace productivity, featured in the Harvard Business Review.",
+      "url": "https://www.betterup.com"
+    }
+  ]
+}

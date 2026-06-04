@@ -1,0 +1,65 @@
+{
+  "_comment": "Most recent first. 'date' is free text; 'content' supports inline HTML (links, <em>, <strong>, <ul>).",
+  "news": [
+    {
+      "date": "May 20, 2026",
+      "content": "Presented a poster, &ldquo;AI Cares, But Do I?&rdquo;: Perceptions of AI-Mediated Empathic Messages from a First-Person Perspective (Han, Lee, Liu, Woodworth, &amp; Hancock), at the UC Davis Communication Horizons conference."
+    },
+    {
+      "date": "May 15, 2026",
+      "content": "A poster on AI metaphors, &ldquo;What Is AI Like? Everyday Metaphors, Selective Amplification, and the Limits of Platform Influence on Collective AI Discourse,&rdquo; was accepted to AEJMC 2026 (Communication Technology Division)."
+    },
+    {
+      "date": "Apr 27, 2026",
+      "content": "Presented research on building resilience to misinformation and disinformation within the Chinese American diaspora at the Stanford Asian American Research Center Symposium."
+    },
+    {
+      "date": "Apr 1, 2026",
+      "content": "The &ldquo;Going Light&rdquo; paper received a Best Paper Honorable Mention at CHI 2026."
+    },
+    {
+      "date": "2026",
+      "content": "Invited speaker at the SPSP Pre-Conference on Media and Technology 2026 in Chicago, IL (host: Dr. Gabriella Harari)."
+    },
+    {
+      "date": "Jan 14, 2026",
+      "content": "The following papers were accepted to ICA 2026 in Cape Town, South Africa:<ul><li>The Role of Agentic Mindsets in Human-AI Collaborative Creativity</li><li>Going Light: The Effects of Minimal Mobile Phone Adoption on Young Adults&rsquo; Well-Being Depend on Motivation</li><li>Two Faces of Third-Person Perceptions of AI-Generated Content: Disentangling Discernment Efficacy from Presumed Influence</li><li>Shaping Empathic Messages: How Human-AI Collaboration Influences First-Person Perceptions of Empathy</li></ul>"
+    },
+    {
+      "date": "Jan 14, 2026",
+      "content": "&ldquo;Analyzing Adolescents&rsquo; Social Media Posts: Insights from Data Donations in Three European Countries&rdquo; (with Lara Schreurs) was accepted to <em>Mass Communication &amp; Society</em>."
+    },
+    {
+      "date": "Jan 13, 2026",
+      "content": "Invited speaker for a fireside conversation at the <a href=\"https://www.digitalwellnessinstitute.com/get-certified\" target=\"_blank\" rel=\"noopener\">Digital Wellness Institute</a>, hosted by Dr. Sophie Janicke-Bowles."
+    },
+    {
+      "date": "Jan 12, 2026",
+      "content": "Research on metaphors of AI was published in <em>Communications Psychology</em> (Nature)."
+    },
+    {
+      "date": "Dec 14, 2025",
+      "content": "Research on &ldquo;workslop&rdquo; was referenced in connection with <a href=\"https://www.merriam-webster.com/wordplay/word-of-the-year\" target=\"_blank\" rel=\"noopener\">Merriam-Webster&rsquo;s 2025 Word of the Year</a>, &ldquo;slop.&rdquo;"
+    },
+    {
+      "date": "Dec 1, 2025",
+      "content": "Contributed to the Stanford Social Media Lab&rsquo;s evaluation of Australia&rsquo;s social media ban and its effects on young people&rsquo;s mental health, with coverage in <a href=\"https://www.bbc.com/news/articles/cwyp9d3ddqyo\" target=\"_blank\" rel=\"noopener\">BBC</a>, <a href=\"https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/\" target=\"_blank\" rel=\"noopener\">Reuters</a>, and other outlets."
+    },
+    {
+      "date": "Dec 1, 2025",
+      "content": "Dissertation research on the overestimation of online toxicity was featured in <a href=\"https://www.vice.com/en/article/study-reveals-the-actual-percentage-of-toxic-social-media-users/\" target=\"_blank\" rel=\"noopener\">Vice</a> and <a href=\"https://www.yahoo.com/news/articles/overestimate-prevalence-online-trolls-200000334.html\" target=\"_blank\" rel=\"noopener\">Yahoo</a>."
+    },
+    {
+      "date": "Sep 5, 2025",
+      "content": "Led a research collaboration with BetterUp on AI-generated &ldquo;workslop&rdquo; in the workplace, with coverage in <a href=\"https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity\" target=\"_blank\" rel=\"noopener\">Harvard Business Review</a>, <a href=\"https://www.cnn.com/2025/09/26/business/ai-workslop-nightcap\" target=\"_blank\" rel=\"noopener\">CNN</a>, <a href=\"https://www.axios.com/2025/09/24/ai-workslop-workplace-efficiency-study\" target=\"_blank\" rel=\"noopener\">Axios</a>, <a href=\"https://www.forbes.com/sites/bryanrobinson/2025/10/01/ai-workslop-5-tips-to-prevent-it-from-messing-with-your-career/\" target=\"_blank\" rel=\"noopener\">Forbes</a>, <a href=\"https://fortune.com/2025/10/13/workslop-wasting-workers-time-ai-resentment/\" target=\"_blank\" rel=\"noopener\">Fortune</a>, <a href=\"https://www.businessinsider.com/workslop-oozing-americas-white-collar-offices-generative-ai-2025-9\" target=\"_blank\" rel=\"noopener\">Business Insider</a>, and <a href=\"https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>."
+    },
+    {
+      "date": "Jul 1, 2025",
+      "content": "Research on public perceptions of AI was featured in <a href=\"https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/\" target=\"_blank\" rel=\"noopener\">Fortune</a> and <a href=\"https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/\" target=\"_blank\" rel=\"noopener\">Forbes</a>."
+    },
+    {
+      "date": "Jan 10, 2025",
+      "content": "Research on misinformation was cited in the <a href=\"https://doi.org/10.17226/27894\" target=\"_blank\" rel=\"noopener\">National Academies of Sciences</a> report on understanding and addressing misinformation about science."
+    }
+  ]
+}
